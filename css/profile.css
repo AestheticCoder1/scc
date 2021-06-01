@@ -1,0 +1,19 @@
+.profil{width:200px;margin:auto;}
+.avatar{width:170px;transition: all 0.8s 1s cubic-bezier(0.22, 0.61, 0.36, 1);    border: 10px solid transparent;border-image: url(http://38.media.tumblr.com/2b476b873786aa50b62d1d91bffe6deb/tumblr_ncxtc8I0un1tqou9go1_500.gif) 7;}
+.contour2 {border: 1px dotted #99beb9;width: 190px; height: 300px;padding:2px;}
+.titre2 {text-transform:uppercase;text-align:center;position:relative;font-size:12px;font-family: 'Poppins', sans-serif;color: #d68a7c;}
+u {    text-decoration-line: overline;text-decoration-style: wavy;text-decoration-color: #eecbb6;letter-spacing: 2px;}
+.rang {text-align:center;color: #6e6d6d;margin-top:3px;width:185px;font-family: 'Libre Baskerville', serif;font-size:8px;line-height:12px;padding:5px;border: 1px solid #ddd4ce;position:absolute;}
+.lien {z-index: 1;height:20px;    background: linear-gradient(145deg, #99beb9, #ddd4ce);width:180px;border-radius:2px;margin:5px;display:font-family: 'Poppins', sans-serif;font-size: 9px;line-height: 12px;overflow:hidden;}
+.lien2 {text-shadow: #58847e 0px 0px 1px;color:#fff;text-align: center;font-family: 'Poppins', sans-serif;font-size: 9px;line-height: 12px;padding: 5px;position: relative;z-index: 2;height: 20px;background-color: #beadba00;width: 180px;border-radius: 2px;overflow:hidden;transition: all 0.8s 1s cubic-bezier(0.22, 0.61, 0.36, 1);}
+.lien2:hover {text-align: center;font-family: 'Poppins', sans-serif;font-size: 9px;line-height: 10px;padding: 5px;position: relative;z-index: 2;height: 50px;background-color: #beadba00;width: 180px;border-radius: 2px;overflow:hidden;margin-top:-20px;transition: all 0.8s 1s cubic-bezier(0.22, 0.61, 0.36, 1);}
+.lien2 text4 {height:20px;overflow:hidden;}
+
+       .onglet{display:inline-block;margin-left:3px;margin-right:3px;padding:3px;background-color: #d9d1d7;cursor:pointer;font-size:9px;font-family: 'Poppins', sans-serif;text-transform:uppercase;width:92px;margin:auto;border: 1px dotted #bfb8c7;text-align:center;}
+        .onglet_0{background-color: #ddd4ce;color: #fff;    text-shadow: #58847e 0px 0px 1px;}
+        .onglet_1{background-color: #99beb9;color: #fff;    text-shadow: #58847e 0px 0px 1px;}
+ .contenu_onglet{    border: 1px solid #d8cdc2;background-color:#f3f3f3;width:188px;border: 1px dotted #bfb8c7;margin-top:-1px; padding:5px;display:none;font-family: 'Libre Baskerville', serif;font-size: 8px;line-height: 12px;color: #6e6d6d;text-align:justify;}
+.contenu_onglet2{background-color:#f3f3f3;width:188px;    border: 1px solid #d8cdc2;margin-top:-1px; padding:5px;display:none;font-family: 'Libre Baskerville', serif;font-size: 8px;line-height: 12px;color: #6e6d6d;text-align:justify;}
+.systeme_onglets{position:relative;margin-top:30px;}
+d {        text-decoration-line: underline;text-decoration-style: double;text-decoration-color:#d68a7c;letter-spacing: 2px;font-family: 'Poppins', sans-serif;padding:2px;color: #9aa29b;font-size:8px;}
+.imgprofil {max-width:180px;opacity:0.7;border-radius:5px;margin:auto;margin:5px;    margin-top: 5px;}

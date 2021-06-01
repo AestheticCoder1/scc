@@ -1,0 +1,26 @@
+body {
+  background-image: url("https://thepressjournal.com/wp-content/uploads/2018/09/BACKGROUND2-DESKTOP.jpg");
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: "honey_and_raspberriesregular";
+  src: url("../fonts/honey\ and\ rasp/honey_and_raspberries-webfont.woff2")
+      format("woff2"),
+    url("../fonts/honey\ and\ rasp/honey_and_raspberries-webfont.woff")
+      format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+.ddt {
+  font-family: "honey_and_raspberriesregular";
+   -webkit-text-stroke: 1px black;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 15%;
+  font-size: 30px;
+  letter-spacing: 5px;
+}
